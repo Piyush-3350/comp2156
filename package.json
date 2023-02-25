@@ -1,0 +1,16 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piyush-3350/comp2156.git"
+  },
+  "keywords": [],
+  "author": "Piyush Sethi",
+  "license": "ISC"
+}
