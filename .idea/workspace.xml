@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1a6017c-7dad-4e85-8f61-450926b24f6c" name="Changes" comment="github action node script added">
+    <list default="true" id="a1a6017c-7dad-4e85-8f61-450926b24f6c" name="Changes" comment="add public and src folder">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COMP2156_Group14_Assignment/101363350_sdlc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/COMP2156_Group14_Assignment/101363350_sdlc.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +15,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.github/workflows/main.yml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/COMP2156_Group14_Assignment/101346005_sdlc.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/COMP2156_Group14_Assignment/101363350_devops.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/COMP2156_Group14_Assignment/101363350_gb.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/package.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,6 +43,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
@@ -72,7 +81,8 @@
       <updated>1676624203073</updated>
       <workItem from="1676624205903" duration="726000" />
       <workItem from="1676625773700" duration="1348000" />
-      <workItem from="1677367088015" duration="1439000" />
+      <workItem from="1677367088015" duration="2401000" />
+      <workItem from="1677382994028" duration="8152000" />
     </task>
     <task id="LOCAL-00001" summary="github action node script added">
       <created>1677367335721</created>
@@ -95,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677367885242</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="github action node script added">
+      <created>1677368783908</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677368783909</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add public and src folder">
+      <created>1677445772053</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677445772053</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +130,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="deep-inclusions" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -114,6 +150,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="github action node script added" />
-    <option name="LAST_COMMIT_MESSAGE" value="github action node script added" />
+    <MESSAGE value="add public and src folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="add public and src folder" />
   </component>
 </project>
