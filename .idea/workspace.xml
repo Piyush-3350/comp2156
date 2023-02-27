@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1a6017c-7dad-4e85-8f61-450926b24f6c" name="Changes" comment="add public and src folder">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a1a6017c-7dad-4e85-8f61-450926b24f6c" name="Changes" comment="add public and src folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +79,7 @@
       <workItem from="1676624205903" duration="726000" />
       <workItem from="1676625773700" duration="1348000" />
       <workItem from="1677367088015" duration="2401000" />
-      <workItem from="1677382994028" duration="9082000" />
+      <workItem from="1677382994028" duration="9730000" />
     </task>
     <task id="LOCAL-00001" summary="github action node script added">
       <created>1677367335721</created>
